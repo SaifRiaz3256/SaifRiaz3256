@@ -4,12 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifriaz3256&label=Profile%20views&color=0e75b6&style=flat" alt="saifriaz3256" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and Devops from various platforms**
+- I am doing Machine Learning specialization course from cousera.
+- I am learning DevOps from Youtube and practicing real time projects on daily basis.
 
-- 💬 Ask me about **AWS,Shell scripting, ML models developing, Scikit learn**
+- 💬 Ask me about **AWS,Shell scripting,Terraform, Ansible, CICD, Jenkins,ML models developing, Scikit learn, Tensor Flow**
 
 - 📫 How to reach me **saifriaz1234@gmail.com**
 
-- ⚡ Fun fact **I am also a good sportsperson**
+- ⚡ Fun fact **I am also a good sportsperson (squash and swimming)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
