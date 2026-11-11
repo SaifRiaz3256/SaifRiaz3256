@@ -61,12 +61,9 @@ open_to:   [full-time, contract, remote, relocation]
 
 ### 🔁 How I ship
 
-```text
-  Plan ──▶ Code ──▶ Build ──▶ Test ──▶ Secure ──▶ Release ──▶ Deploy ──▶ Operate ──▶ Monitor ─┐
-  (Jira)  (Git)   (Docker) (PyTest)  (ZAP·Trivy) (GH Actions) (K8s·TF)  (Azure·AWS) (Grafana) │
-   ▲                                                                                        │
-   └──────────────────────────── feedback loop: what we learn goes back into planning ──────┘
-```
+<p align="center">
+  <a href="https://saifriaz.tech/#lifecycle"><img src="https://saifriaz.tech/img/devops-cycle.svg" alt="DevOps lifecycle: Plan → Code → Build → Test → Secure → Release → Deploy → Operate → Monitor, in a continuous loop" width="100%"></a>
+</p>
 
 ---
 
