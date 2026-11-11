@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://saifriaz.tech"><img src="./assets/banner.svg" alt="Saif Riaz — DevOps &amp; Site Reliability Engineer" width="100%"></a>
+  <a href="https://saifriaz.tech"><img src="https://saifriaz.tech/img/github-banner.svg" alt="Saif Riaz — DevOps &amp; Site Reliability Engineer" width="100%"></a>
 </p>
 
 <p align="center">
